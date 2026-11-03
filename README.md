@@ -1,7 +1,7 @@
 
 # Hi, I'm Raphael Santos! 👋
 
-### Software Developer | Systems Analysis and Development
+### IT Professional | ADS Graduate | Aspiring Software Developer
 
 I'm a Systems Analysis and Development graduate, passionate about technology, software development, and continuous learning.
 
